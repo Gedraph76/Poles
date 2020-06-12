@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Poles</string>
+    <string name="Page_signup_have_an_account">Already have an account?</string>
+    <string name="Signup">SignUp</string>
+    <string name="WelcomeTextPat">Join us Today!!</string>
+</resources>

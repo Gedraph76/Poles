@@ -1,0 +1,2 @@
+rootProject.name='Poles'
+include ':app'
